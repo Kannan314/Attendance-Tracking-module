@@ -1,0 +1,17 @@
+
+**Recommended PHP Version >= 7.4**
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+**For employee login, please create one from the admin panel**
+
+**********************
+Origninally Developed By: Andry
+Published @ codeastro.com [https://codeastro.com/employee-attendance-system-in-php-codeigniter-with-source-code/]
+**********************
+Customized By: oretnom23
+Published @ sourcecodester.com [https://sourcecodester/php-codeigniter-employee-attendance-system-project-source-code]
+**********************
